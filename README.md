@@ -1,0 +1,2 @@
+- [issue](https://github.com/NixOS/nixpkgs/issues/79303)
+- [example](https://github.com/carnotweat/nix_meson.build.git)
